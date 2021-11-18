@@ -1,0 +1,1 @@
+Para executar um código, copie-o no arquivo main.c sem os caracteres '/*' e '*/' do início e final das linhas de código, respectivamente.
