@@ -1,4 +1,4 @@
-/* Questão 11:
+/* Questao 11:
 
 Suponha que as seguintes declarações tenham sido realizadas:
 float aloha[10], coisas[10][5], *pf, value = 2.2;

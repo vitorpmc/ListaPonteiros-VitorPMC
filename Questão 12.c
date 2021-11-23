@@ -1,4 +1,6 @@
-/* A grande vantagem de se aplicar ponteiros a funções
+/* Questao 12
+
+A grande vantagem de se aplicar ponteiros a funções
 é que, a partir dessa técnica, o programa passa a editar
 os valores das variáveis em suas posições originais na
 memória, e não somente editar uma cópia do valor dessa

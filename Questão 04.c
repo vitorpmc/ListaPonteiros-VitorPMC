@@ -1,3 +1,5 @@
+// Questao 4
+
 // a. p = &i; LEGAL
 // b. *q = &j; LEGAL
 // c. p = &*&i; LEGAL

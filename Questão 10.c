@@ -1,4 +1,4 @@
-/* Questão 10
+/* Questao 10
 
 --> Se x for declarado como char:
 x + 1 = 4093, x + 2 = 4094 e x + 3 = 4095;

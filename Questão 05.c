@@ -1,4 +1,4 @@
-/* Questão 5:
+/* Questao 5:
 a) 20: Esperado
 b) 29.0: Esperado
 c) P: Esperado

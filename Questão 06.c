@@ -1,4 +1,4 @@
-/* Questão 6:
+/* Questao 6:
 RESULTADOS OBTIDOS:
 
 Resultado 1: ESPERADO
